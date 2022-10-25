@@ -15,3 +15,14 @@ Configuracion de desarrollo con Node
 
 
 [![Captura-de-pantalla-432.png](https://i.postimg.cc/L5t1h7g6/Captura-de-pantalla-432.png)](https://postimg.cc/YLS9sdxJ)
+
+8. ir al packge.js crear una configuracion para poder ejecutar el servidor de Node 
+
+[![Captura-de-pantalla-433.png](https://i.postimg.cc/DwZRdKvD/Captura-de-pantalla-433.png)](https://postimg.cc/jLp8tmJQ)
+
+9.poner en la terminal npm rund dev si le da error intalar el nodemon para agrgarlo es:npm i nodemon eslint eslint-config-prettier eslint-plugin-prettier prettier -D espear a que cargue con eso tendria que instalar dos archivos  y leugo ahi si ejecutar el comando npm run dev
+
+
+[![Captura-de-pantalla-434.png](https://i.postimg.cc/k4by7Tnf/Captura-de-pantalla-434.png)](https://postimg.cc/yg7RPX3Z)
+
+si te aparece lo de la imaguen sin ningun error es por que esta bien 
